@@ -1,6 +1,5 @@
-.DS_Store
-/.bundle
-/.cache
-/.sass-cache
-docs/_site
-secrets.env
+*.beam
+*.ez
+/build
+erl_crash.dump
+.env

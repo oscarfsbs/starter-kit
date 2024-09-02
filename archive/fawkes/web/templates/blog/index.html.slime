@@ -1,5 +1,0 @@
-h1 A wobsite
-
-ul
-  = for article <- @articles do
-    li= article.title

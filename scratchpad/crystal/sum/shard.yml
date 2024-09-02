@@ -1,9 +1,0 @@
-name: sum
-version: 0.1.0
-
-authors:
-  - Louis Pilfold <louis@lpil.uk>
-
-crystal: 0.26.1
-
-license: MIT

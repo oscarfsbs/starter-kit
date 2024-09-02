@@ -1,3 +1,0 @@
-# Exercism
-
-Endless fun :D

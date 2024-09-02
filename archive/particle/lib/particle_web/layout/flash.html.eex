@@ -1,4 +1,0 @@
-<% flash = get_flash(@conn, @type) %>
-<%= if flash do %>
-  <div class="alert alert-<%= @type %>" role="alert"><%= flash %></div>
-<% end %>

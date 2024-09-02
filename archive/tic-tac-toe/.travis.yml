@@ -1,7 +1,0 @@
-language: rust
-sudo: false
-
-notifications:
-  email: false
-
-rust: stable

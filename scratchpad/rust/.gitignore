@@ -1,9 +1,0 @@
-*.swp
-
-*.dll
-*.o
-*.rlib
-*.so
-
-/target/
-**/target/

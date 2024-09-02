@@ -1,5 +1,0 @@
-h1= @article.title
-
-p Published at #{to_string @article.published_at}
-
-= @article |> body_content
